@@ -1,2 +1,2 @@
 # Projects
-Simple XML creator, Please create xmltest directory under your C:/
+Simple XML creator, Please create xmltest folder under your C:/
